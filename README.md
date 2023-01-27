@@ -1,4 +1,4 @@
-# Steps In Creating Application:
+# Notes Starting Application
 
 ## Setup Directory
 
